@@ -4,6 +4,12 @@
 
 The `strprop` program checks various properties of a given string, such as its length, size in memory, whether all characters are valid ASCII, and the memory address where the string is stored.
 
+## Suggested installation
+
+For easier usage in the terminal, it is recommended to add the `strprop` program to your system's executable path by placing it in the `/usr/bin` directory. This will allow you to run `strprop` from any location in the terminal without needing to specify its full path.
+
+To do this, you can copy the compiled `strprop` binary to `/usr/bin`:
+
 ## Usage
 
 To use the `strprop` program, provide a string as an argument: `strprop [string]`
