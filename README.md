@@ -13,6 +13,7 @@ To do this, you can copy the compiled `strprop` binary to `/usr/bin`:
 ## Usage
 
 To use the `strprop` program, provide a string as an argument: `strprop [string]`
+For strings separated by spaces use double quotation marks: `strprop "Hello World!"`
 
 ### Command-line Options
 
