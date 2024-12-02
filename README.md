@@ -28,16 +28,19 @@ To check the properties of the string `"Hello"`, run the following command:
 
 `strprop Hello`
 ```
+Properties for string "Hello":
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Indexes:
 --------
 H  e  l  l  o  
 0  1  2  3  4  
 
-Other properties:
+Other propieties:
 -----------------
 Length: 5
 Size: 6 Bytes
 Is ASCII: True
-Memory address: 0x7fffd8e5a5a0
+Memory address: 0x7fff7c0612ab
+
 ```
